@@ -91,7 +91,6 @@ https://youtu.be/fVdGRpbPhKw
 - `/links/`  
   - dashboard link  
   - video link  
-- No code files required (Tableau dashboard lives in Tableau Cloud)
 
 ---
 
@@ -102,16 +101,6 @@ https://youtu.be/fVdGRpbPhKw
 3. Explore revenue trends  
 4. Click on regions to filter the dashboard  
 5. Scroll to see top product performance  
-
----
-
-## Why This Project Stands Out for Judges  
-
-- Clean, executive-grade design  
-- Clear narrative: KPI → Trend → Root Cause → Opportunities  
-- Strong alignment with “Actionable Analytics” category  
-- Easy to understand in under 30 seconds  
-- Professional formatting and consistent visuals  
 
 ---
 
